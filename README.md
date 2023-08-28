@@ -1,6 +1,6 @@
 # A-E-F-I-P-C-IoT
 
-**Adaptive Environment for Plants**
+**IoT-Based Adaptive Environment for Indoor Plant Cultivation**
 
 
 The Adaptive Environment for Plants is an Internet of Things (IoT) based system designed to optimize indoor plant growth by creating a tailored and efficient growing environment. This system utilizes various sensors, actuators, and a mobile app to monitor and control key environmental factors for plant health and growth.
